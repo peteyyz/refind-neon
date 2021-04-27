@@ -28,7 +28,11 @@ Hope you like!
 (p)
 
 ![refind_neon1](https://user-images.githubusercontent.com/73159111/116166726-78bde600-a6b3-11eb-857d-370910697192.jpg)
+<<<<<<< HEAD
 
 ![refind_neon2](https://user-images.githubusercontent.com/73159111/116166734-7d829a00-a6b3-11eb-8e7a-21e7b2c0ab9a.jpg)
 
+=======
+![refind_neon2](https://user-images.githubusercontent.com/73159111/116166734-7d829a00-a6b3-11eb-8e7a-21e7b2c0ab9a.jpg)
+>>>>>>> 573acf0ad78a71e781cec6f306958055f499adab
 ![neon_distro_icons](https://user-images.githubusercontent.com/73159111/116166738-7fe4f400-a6b3-11eb-8823-a0aaa12ebc49.png)
