@@ -4,7 +4,7 @@ A neon theme for rEFInd. Who doesn't love neon icons?!
 
 rEFInd: https://www.rodsbooks.com/refind/
 
-Copy into your Refind /themes directory and add this to your refind.conf file:
+Copy into your refind /themes directory and add this to your refind.conf file:
 
 include themes/neon/theme.conf
 
@@ -15,7 +15,7 @@ Frequently Unasked Questions:
 * Yes, I have all these distros installed on two SSDs.
 * Yes, it is ridiculous.
 * BTW, I use Void.
-* Sorry, I do use a Mac, Slackware, or BSD. I'll try to add these if there's interest.
+* Sorry, I do not use a Mac, Slackware, or BSD. I'll try to add these if there's interest.
 * All icons were processed with Gimp using the Neon filter from the old Alpha To Logo collection.
 
 Acknowledgements:
